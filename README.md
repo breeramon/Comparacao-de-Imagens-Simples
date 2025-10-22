@@ -24,12 +24,18 @@ O nosso projeto implementa as seguintes tarefas:
 * **Ambiente:** Google Colab
 * **Bibliotecas Principais:**
     * **OpenCV (`cv2`)** : Para leitura e manipulação de imagens (leitura, `cvtColor`, `bitwise_xor`).
-    * **NumPy**[cite: 121]: Para computação numérica e manipulação de arrays.
-    * **Matplotlib**[cite: 122]: Para exibição de imagens.
+    * **NumPy**: Para computação numérica e manipulação de arrays.
+    * **Matplotlib**: Para exibição de imagens.
     * **Scikit-image (`skimage`)** : Para funções específicas como `rotate` e `structural_similarity` (SSIM).
     * **Pandas**: Para criação do ranking e exportação para `.csv`.
+ 
+## 4. Atualizações para as próximas semanas
 
-## 4. Equipe (Grupo 6) e Responsabilidades
+* **Adicionar o input para que o usuário possa selecionar a imagem e editar ela.
+* **Verificação do tipo de imagem, só podendo ser nos tipos que foram especificados no documento.
+* **Adição do Front para o projeto.
+
+## 5. Equipe (Grupo 6) e Responsabilidades
 
 * **Bernardo Rafael Castro Rezende** - Implementação das funções de edição.
 * **Breno Ramon Santana dos Santos** - Testes de usabilidade e correção de bugs.
@@ -38,6 +44,7 @@ O nosso projeto implementa as seguintes tarefas:
 * **Raphael Vinícius Batista Uchoa Dias** - Design e layout da interface.
 * **Vinicius Américo Damasceno Feitoza** - Coordenação e supervisão geral do projeto.
 
-## 5. Professora
+
+## 6. Professora
 
 * **Layse Santos Souza** 
